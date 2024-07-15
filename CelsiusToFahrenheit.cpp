@@ -10,6 +10,7 @@ int main(){
     fahrenheit = (celsius + 32) * 5 / 9;
     cout<<"celsius to fahrenheit is: "<<fahrenheit<<endl;
 
-
+    //logic for fahrenheit to celsius
+    // celsius = (Fahrenheit - 32) * 5 / 9
     return 0;
 }
